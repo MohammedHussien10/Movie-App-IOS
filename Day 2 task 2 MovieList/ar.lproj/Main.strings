@@ -1,0 +1,110 @@
+
+/* Class = "UIButton"; configuration.title = "Let’s Get Started"; ObjectID = "5Gs-0k-54t"; */
+"5Gs-0k-54t.configuration.title" = "Let’s Get Started";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Gs-0k-54t"; */
+"5Gs-0k-54t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Xl-fT-lEl"; */
+"5Xl-fT-lEl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7xm-fN-e7x"; */
+"7xm-fN-e7x.text" = "Label";
+
+/* Class = "UILabel"; text = "Release Year:"; ObjectID = "9OI-Du-Zcs"; */
+"9OI-Du-Zcs.text" = "Release Year:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Sg-PY-g9P"; */
+"9Sg-PY-g9P.text" = "lable";
+
+/* Class = "UIButton"; configuration.title = "Next Step"; ObjectID = "DcC-9r-8u3"; */
+"DcC-9r-8u3.configuration.title" = "Next Step";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DcC-9r-8u3"; */
+"DcC-9r-8u3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HKL-oa-MKt"; */
+"HKL-oa-MKt.text" = "Label";
+
+/* Class = "UILabel"; text = "ReleaseYear"; ObjectID = "Ioj-0G-vPu"; */
+"Ioj-0G-vPu.text" = "سنة الاصدار";
+
+/* Class = "UIButton"; configuration.title = "Done"; ObjectID = "KmT-tz-2jY"; */
+"KmT-tz-2jY.configuration.title" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KmT-tz-2jY"; */
+"KmT-tz-2jY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add Movie"; ObjectID = "NCn-fj-Nvb"; */
+"NCn-fj-Nvb.configuration.title" = "Add Movie";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NCn-fj-Nvb"; */
+"NCn-fj-Nvb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Genre :"; ObjectID = "O0g-ji-3Uw"; */
+"O0g-ji-3Uw.text" = "Genre :";
+
+/* Class = "UILabel"; text = "Welcome to MovieVerse"; ObjectID = "S4a-AT-XuU"; */
+"S4a-AT-XuU.text" = "Welcome to MovieVerse";
+
+/* Class = "UIButton"; configuration.title = "Next Step"; ObjectID = "TSf-TN-Ekk"; */
+"TSf-TN-Ekk.configuration.title" = "Next Step";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TSf-TN-Ekk"; */
+"TSf-TN-Ekk.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VN7-vz-r5Q"; */
+"VN7-vz-r5Q.text" = "النوع";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "fR6-Xb-L1N"; */
+"fR6-Xb-L1N.text" = "النوع";
+
+/* Class = "UIButton"; configuration.title = "Next Step"; ObjectID = "fTG-gZ-sZF"; */
+"fTG-gZ-sZF.configuration.title" = "Next Step";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fTG-gZ-sZF"; */
+"fTG-gZ-sZF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "title :"; ObjectID = "g11-lr-hqB"; */
+"g11-lr-hqB.text" = "title :";
+
+/* Class = "UIButton"; configuration.title = "Gallary"; ObjectID = "gUQ-BN-qcv"; */
+"gUQ-BN-qcv.configuration.title" = "Gallary";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gUQ-BN-qcv"; */
+"gUQ-BN-qcv.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Your Entertainment, Your Way"; ObjectID = "gc3-ci-zmB"; */
+"gc3-ci-zmB.text" = "Your Entertainment, Your Way";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ksf-4h-Bdg"; */
+"ksf-4h-Bdg.text" = "Label";
+
+/* Class = "UILabel"; text = "Rating :"; ObjectID = "mh4-nE-D5o"; */
+"mh4-nE-D5o.text" = "Rating :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "no8-0I-7VQ"; */
+"no8-0I-7VQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oMO-ab-0Lr"; */
+"oMO-ab-0Lr.text" = "Label";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "p1h-5Z-R1P"; */
+"p1h-5Z-R1P.text" = "التقييم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qV2-4i-Fzw"; */
+"qV2-4i-Fzw.text" = "التقييم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rFU-k9-A9G"; */
+"rFU-k9-A9G.text" = "سنة الاصدار";
+
+/* Class = "UILabel"; text = "img"; ObjectID = "tlh-aQ-me9"; */
+"tlh-aQ-me9.text" = "img";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zb6-Tm-Kgt"; */
+"zb6-Tm-Kgt.text" = "عنوان الفيلم";
+
+
+"WSo-vs-140" = "عنوان الفيلم";
+
+"AJ8-Wf-5zW" = "التقييم";
