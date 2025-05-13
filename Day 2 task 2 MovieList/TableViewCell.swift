@@ -27,6 +27,7 @@ class NibTableViewCell: UITableViewCell {
          imgView.layer.cornerRadius = imgView.frame.size.width / 2
          imgView.clipsToBounds = true
         print("Width: \(imgView.frame.size.width), Height: \(imgView.frame.size.height)")
+        print("Width: \(imgView.frame.size.width), Height: \(imgView.frame.size.height)")
      }
 
 }
